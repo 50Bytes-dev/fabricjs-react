@@ -41,8 +41,5 @@
   },
   "bugs": {
     "url": "https://github.com/asotog/fabricjs-react/issues"
-  },
-  "engines": {
-    "node": "20"
   }
 }
